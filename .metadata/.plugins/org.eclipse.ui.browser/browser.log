@@ -1,0 +1,9 @@
+
+thg 6 30, 2020 15:04:56.02 NEW SESSION
+thg 6 30, 2020 15:04:56.02 [7052:6756:0630/150456.017:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+thg 6 30, 2020 15:04:56.03 [7052:6756:0630/150456.018:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+thg 6 30, 2020 15:05:16.41 [7052:6756:0630/150516.409:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+thg 6 30, 2020 15:05:17.81 [7052:6756:0630/150517.810:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+thg 6 30, 2020 15:06:02.12 [7052:6756:0630/150602.120:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+thg 6 30, 2020 15:06:08.68 [7052:6756:0630/150608.681:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+thg 6 30, 2020 15:06:35.88 [7052:6756:0630/150635.884:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
